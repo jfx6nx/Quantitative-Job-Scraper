@@ -1,0 +1,14 @@
+# Secrets — never commit these
+.env
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code (optional — remove if you want to share workspace settings)
+.vscode/
+
+# OS clutter
+.DS_Store
+Thumbs.db
