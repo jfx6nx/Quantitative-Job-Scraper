@@ -1,4 +1,4 @@
-# Secrets — never commit these
+# Secret
 .env
 
 # Python bytecode
@@ -6,7 +6,7 @@ __pycache__/
 *.pyc
 *.pyo
 
-# VS Code (optional — remove if you want to share workspace settings)
+# VS Code 
 .vscode/
 
 # OS clutter
